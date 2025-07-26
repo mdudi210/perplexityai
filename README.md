@@ -3,8 +3,9 @@ A python api to use perplexity.ai
 
 # Installation
 You can install the package with pip and git:
+- just those how don't know how to fix this error they can use this to install
 ```bash
-pip install git+https://github.com/nathanrchn/perplexityai.git
+pip install git+https://github.com/mdudi210/perplexityai@patch-1
 ```
 
 # Basic Usage
